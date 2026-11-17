@@ -130,13 +130,13 @@ An interview preparation application combining resume analysis with personalized
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=techcraft-Ubuntu&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=priyxverse&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techcraft-Ubuntu&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyxverse&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used languages"/>
 
 <br/>
 
-<img width="65%" src="https://streak-stats.demolab.com/?user=techcraft-Ubuntu&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
+<img width="65%" src="https://streak-stats.demolab.com/?user=priyxverse&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
